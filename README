@@ -1,0 +1,1 @@
+To build the Ehcache-Search-GroupBy project -> mvn assembly:assembly
